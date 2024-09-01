@@ -1,7 +1,7 @@
 # CryptoClustering
-In this repo I classify cryptocurrencies according to their price fluctuations across various timeframes. Specifically, you will examine price changes over intervals spanning 24 hours, 7 days, 30 days, 60 days, 200 days, and 1 year.
-This project applies clustering techniques to a dataset of cryptocurrencies to identify distinct groups based on their performance metrics. Principal Component Analysis (PCA) is used to reduce the dimensionality of the data, and K-Means clustering is applied to group the cryptocurrencies.
 
+This project applies clustering techniques to a dataset of cryptocurrencies to identify distinct groups based on their performance metrics. Principal Component Analysis (PCA) is used to reduce the dimensionality of the data, and K-Means clustering is applied to group the cryptocurrencies.
+I classify cryptocurrencies according to their price fluctuations across various timeframes. Specifically, you will examine price changes over intervals spanning 24 hours, 7 days, 30 days, 60 days, 200 days, and 1 year.
 Project Structure
 
 - Crypto_Clustering.ipynb: The main Jupyter notebook that contains the code for data loading, processing, PCA transformation, clustering, and visualization.
